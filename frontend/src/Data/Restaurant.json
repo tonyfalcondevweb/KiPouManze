@@ -1,0 +1,1632 @@
+[
+  {
+    "nom": "G LA DALLE",
+    "emplacements": [
+      {
+        "adresse": "10 Chem. de Savigny, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "11:30-23:30"
+          ],
+          "mardi": [
+            "11:30-23:30"
+          ],
+          "mercredi": [
+            "11:30-23:30"
+          ],
+          "jeudi": [
+            "11:30-23:30"
+          ],
+          "vendredi": [
+            "11:30–13:00",
+            "14:15–23:30"
+          ],
+          "samedi": [
+            "11:30-23:30"
+          ],
+          "dimanche": [
+            "11:30-23:30"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "burger",
+      "pas diet",
+      "shamir",
+      "salé",
+      "+10€"
+    ]
+  },
+  {
+    "nom": "Chez l'Ancien",
+    "emplacements": [
+      {
+        "adresse": "33 Rue d'Aulnay, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "11:00–00:00"
+          ],
+          "mardi": [
+            "11:00–00:00"
+          ],
+          "mercredi": [
+            "11:00–00:00"
+          ],
+          "jeudi": [
+            "11:00–00:00"
+          ],
+          "vendredi": [
+            "11:00–00:00"
+          ],
+          "samedi": [
+            "11:00–00:00"
+          ],
+          "dimanche": [
+            "11:00–00:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "pas diet",
+      "shamir",
+      "salé",
+      "+10€"
+    ]
+  },
+  {
+    "nom": "O'Grill",
+    "emplacements": [
+      {
+        "adresse": "32 Rue d'Aulnay, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "11:30–00:01"
+          ],
+          "mardi": [
+            "11:30–00:01"
+          ],
+          "mercredi": [
+            "11:30–01:00"
+          ],
+          "jeudi": [
+            "11:30–01:00"
+          ],
+          "vendredi": [
+            "11:30–01:00"
+          ],
+          "samedi": [
+            "11:30–01:00"
+          ],
+          "dimanche": [
+            "11:30–01:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "pas diet",
+      "shamir",
+      "salé",
+      "-10€"
+    ]
+  },
+  {
+    "nom": "WAFFLE B",
+    "emplacements": [
+      {
+        "adresse": "48 Rue d'Aulnay, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "Fermé"
+          ],
+          "mardi": [
+            "17:00–00:00"
+          ],
+          "mercredi": [
+            "17:00–00:00"
+          ],
+          "jeudi": [
+            "17:00–00:00"
+          ],
+          "vendredi": [
+            "15:00–00:00"
+          ],
+          "samedi": [
+            "15:00–00:00"
+          ],
+          "dimanche": [
+            "15:00–00:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "sucré",
+      "shamir",
+      "pas diet",
+      "+5€"
+    ]
+  },
+  {
+    "nom": "Good thaï family",
+    "emplacements": [
+      {
+        "adresse": "7 Av. de la République, 93420 Villepinte",
+        "horaire": {
+          "lundi": [
+            "11:30–15:30",
+            "18:30–00:00"
+          ],
+          "mardi": [
+            "11:30–15:30",
+            "18:30–00:00"
+          ],
+          "mercredi": [
+            "11:30–15:30",
+            "18:30–00:00"
+          ],
+          "jeudi": [
+            "11:30–15:30",
+            "18:30–00:00"
+          ],
+          "vendredi": [
+            "11:30–15:30",
+            "18:30–00:00"
+          ],
+          "samedi": [
+            "11:30–15:30",
+            "18:30–00:00"
+          ],
+          "dimanche": [
+            "11:30–15:30",
+            "18:30–00:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "asiat",
+      "thaï",
+      "diet",
+      "janath",
+      "-10€",
+      "salé"
+    ]
+  },
+  {
+    "nom": "Restaurant Istanbul",
+    "emplacements": [
+      {
+        "adresse": "2 Place Degeyter, 93420 Villepinte",
+        "horaire": {
+          "lundi": [
+            "11:00–23:00"
+          ],
+          "mardi": [
+            "11:00–23:00"
+          ],
+          "mercredi": [
+            "11:00–23:00"
+          ],
+          "jeudi": [
+            "11:00–23:00"
+          ],
+          "vendredi": [
+            "11:00–23:00"
+          ],
+          "samedi": [
+            "11:00–23:00"
+          ],
+          "dimanche": [
+            "11:00–23:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "grec",
+      "-10€",
+      "pas diet",
+      "janath",
+      "salé"
+    ]
+  },
+  {
+    "nom": "100% Crousti Original",
+    "emplacements": [
+      {
+        "adresse": "28,bis Rue d'Aulnay, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "09:00–22:30"
+          ],
+          "mardi": [
+            "09:00–22:30"
+          ],
+          "mercredi": [
+            "09:00–22:30"
+          ],
+          "jeudi": [
+            "09:00–22:30"
+          ],
+          "vendredi": [
+            "09:00–22:30"
+          ],
+          "samedi": [
+            "09:00–22:30"
+          ],
+          "dimanche": [
+            "09:00–22:30"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "diet",
+      "shamir",
+      "+5€",
+      "poulet"
+    ]
+  },
+  {
+    "nom": "O'Crousti",
+    "emplacements": [
+      {
+        "adresse": "54 Av. Emile Dambel, 93420 Villepinte",
+        "horaire": {
+          "lundi": [
+            "11:30–22:30"
+          ],
+          "mardi": [
+            "11:30–22:30"
+          ],
+          "mercredi": [
+            "11:30–22:30"
+          ],
+          "jeudi": [
+            "11:30–22:30"
+          ],
+          "vendredi": [
+            "15:00–22:30"
+          ],
+          "samedi": [
+            "11:30–22:30"
+          ],
+          "dimanche": [
+            "11:30–22:30"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "diet",
+      "janath",
+      "+5€",
+      "poulet"
+    ]
+  },
+  {
+    "nom": "Crep'way",
+    "emplacements": [
+      {
+        "adresse": "130 Rte de Mitry, 93600 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "12:00–03:00"
+          ],
+          "mardi": [
+            "12:00–03:00"
+          ],
+          "mercredi": [
+            "12:00–03:00"
+          ],
+          "jeudi": [
+            "12:00–03:00"
+          ],
+          "vendredi": [
+            "12:00–03:00"
+          ],
+          "samedi": [
+            "12:00–03:00"
+          ],
+          "dimanche": [
+            "12:00–03:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "sucré",
+      "+5€",
+      "pas diet",
+      "pizza"
+    ]
+  },
+  {
+    "nom": "Le Cercle Pizza",
+    "emplacements": [
+      {
+        "nom": "Aulnay",
+        "adresse": "86 Chem. du Moulin de la ville, 93600 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "mardi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "mercredi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "jeudi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "vendredi": [
+            "18:00–23:00"
+          ],
+          "samedi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "dimanche": [
+            "18:00–23:00"
+          ]
+        }
+      },
+      {
+        "nom": "Tremblay",
+        "adresse": "10 Cr de la République, 93290 Tremblay-en-France",
+        "horaire": {
+          "lundi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "mardi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "mercredi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "jeudi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "vendredi": [
+            "18:00–23:00"
+          ],
+          "samedi": [
+            "11:00–14:30",
+            "18:00–23:00"
+          ],
+          "dimanche": [
+            "18:00–23:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "pizza",
+      "diet",
+      "+5€",
+      "salé"
+    ]
+  },
+  {
+    "nom": "MAXIN CHICKEN",
+    "emplacements": [
+      {
+        "adresse": "2ter Av. de Livry, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "11:30–00:00"
+          ],
+          "mardi": [
+            "11:30–00:00"
+          ],
+          "mercredi": [
+            "11:30–00:00"
+          ],
+          "jeudi": [
+            "11:30–00:00"
+          ],
+          "vendredi": [
+            "11:30–00:00"
+          ],
+          "samedi": [
+            "11:30–00:00"
+          ],
+          "dimanche": [
+            "11:30–00:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "pas diet",
+      "tony",
+      "-10€",
+      "poulet",
+      "burger"
+    ]
+  },
+  {
+    "nom": "La rose de Sevran",
+    "emplacements": [
+      {
+        "adresse": "2 All. Mozart, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "11:00–22:45"
+          ],
+          "mardi": [
+            "11:00–22:30"
+          ],
+          "mercredi": [
+            "11:00–22:45"
+          ],
+          "jeudi": [
+            "11:00–22:45"
+          ],
+          "vendredi": [
+            "11:00–23:00"
+          ],
+          "samedi": [
+            "11:00–23:00"
+          ],
+          "dimanche": [
+            "Fermé"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "grec",
+      "-10€",
+      "salé",
+      "pas diet"
+    ]
+  },
+  {
+    "nom": "iWOK",
+    "emplacements": [
+      {
+        "adresse": "Rte des Petits Ponts, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "11:00–22:00"
+          ],
+          "mardi": [
+            "11:00–22:00"
+          ],
+          "mercredi": [
+            "11:00–22:00"
+          ],
+          "jeudi": [
+            "11:00–22:00"
+          ],
+          "vendredi": [
+            "11:00–22:00"
+          ],
+          "samedi": [
+            "11:00–22:00"
+          ],
+          "dimanche": [
+            "Fermé"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "asiat",
+      "+10€",
+      "diet"
+    ]
+  },
+  {
+    "nom": "WOK SUN SEVRAN",
+    "emplacements": [
+      {
+        "adresse": "Centre commercial Carrefour Sevran, Route des Petits Ponts, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "12:00–14:30",
+            "19:00–22:30"
+          ],
+          "mardi": [
+            "12:00–14:30",
+            "19:00–22:30"
+          ],
+          "mercredi": [
+            "12:00–14:30",
+            "19:00–22:30"
+          ],
+          "jeudi": [
+            "12:00–14:30",
+            "19:00–22:30"
+          ],
+          "vendredi": [
+            "12:00–14:30",
+            "19:00–23:00"
+          ],
+          "samedi": [
+            "12:00–14:30",
+            "19:00–23:00"
+          ],
+          "dimanche": [
+            "12:00–14:30",
+            "19:00–22:30"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "diet",
+      "volonté",
+      "+10€",
+      "asiat"
+    ]
+  },
+  {
+    "nom": "Chick'end",
+    "emplacements": [
+      {
+        "adresse": "Centre Commercial Beau Sevran, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "10:00–23:00"
+          ],
+          "mardi": [
+            "10:00–23:00"
+          ],
+          "mercredi": [
+            "10:00–23:00"
+          ],
+          "jeudi": [
+            "10:00–23:00"
+          ],
+          "vendredi": [
+            "10:00–23:00"
+          ],
+          "samedi": [
+            "10:00–23:00"
+          ],
+          "dimanche": [
+            "10:00–23:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "pas diet",
+      "sucré",
+      "+10€",
+      "grec",
+      "burger",
+      "poulet"
+    ]
+  },
+  {
+    "nom": "Quick",
+    "emplacements": [
+      {
+        "nom": "Aulnay rond-point",
+        "adresse": "Carr de l'Europe, 93600 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "11:00–02:00"
+          ],
+          "mardi": [
+            "11:00–02:00"
+          ],
+          "mercredi": [
+            "11:00–02:00"
+          ],
+          "jeudi": [
+            "11:00–02:00"
+          ],
+          "vendredi": [
+            "11:00–02:00"
+          ],
+          "samedi": [
+            "11:00–02:00"
+          ],
+          "dimanche": [
+            "11:00–02:00"
+          ]
+        }
+      },
+      {
+        "nom": "Aulnay o'parinor",
+        "adresse": "CENTRE COMMERCIAL PARINOR, 93606 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "11:00–22:00"
+          ],
+          "mardi": [
+            "11:00–22:00"
+          ],
+          "mercredi": [
+            "11:00–22:00"
+          ],
+          "jeudi": [
+            "11:00–22:00"
+          ],
+          "vendredi": [
+            "11:00–23:00"
+          ],
+          "samedi": [
+            "11:00–23:00"
+          ],
+          "dimanche": [
+            "11:00–22:00"
+          ]
+        }
+      },
+      {
+        "nom": "Beausevran",
+        "adresse": "Centre Commercial Beau Sevran, 93270 Sevran",
+        "horaire": {
+          "lundi": [
+            "09:00–22:30"
+          ],
+          "mardi": [
+            "09:00–22:30"
+          ],
+          "mercredi": [
+            "09:00–22:30"
+          ],
+          "jeudi": [
+            "09:00–22:30"
+          ],
+          "vendredi": [
+            "09:00–22:30"
+          ],
+          "samedi": [
+            "09:00–22:30"
+          ],
+          "dimanche": [
+            "11:00–22:30"
+          ]
+        }
+      },
+      {
+        "nom": "Claye-Souilly",
+        "adresse": "14 Rue Jean Monnet, 77410 Claye-Souilly",
+        "horaire": {
+          "lundi": [
+            "11:00–22:30"
+          ],
+          "mardi": [
+            "11:00–22:30"
+          ],
+          "mercredi": [
+            "11:00–22:30"
+          ],
+          "jeudi": [
+            "11:00–22:30"
+          ],
+          "vendredi": [
+            "11:00–23:00"
+          ],
+          "samedi": [
+            "11:00–23:00"
+          ],
+          "dimanche": [
+            "11:00–22:30"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "+10€",
+      "sucré",
+      "pas diet",
+      "burger",
+      "~5€"
+    ]
+  },
+  {
+    "nom": "Macdo",
+    "emplacements": [
+      {
+        "nom": "Livry Cora",
+        "adresse": "Rn Centre Commercial CORA, Centre Commercial Cora, 3, Allée De L'est, N3, 93190 Livry-Gargan",
+        "horaire": {
+          "lundi": [
+            "08:00–04:00"
+          ],
+          "mardi": [
+            "08:00–04:00"
+          ],
+          "mercredi": [
+            "08:00–04:00"
+          ],
+          "jeudi": [
+            "08:00–04:00"
+          ],
+          "vendredi": [
+            "08:00–04:00"
+          ],
+          "samedi": [
+            "08:00–04:00"
+          ],
+          "dimanche": [
+            "08:00–04:00"
+          ]
+        }
+      },
+      {
+        "nom": "Villepinte",
+        "adresse": "40 Av. Georges Clemenceau Cd, 93420 Villepinte",
+        "horaire": {
+          "lundi": [
+            "Ouvert 24h/24"
+          ],
+          "mardi": [
+            "Ouvert 24h/24"
+          ],
+          "mercredi": [
+            "Ouvert 24h/24"
+          ],
+          "jeudi": [
+            "Ouvert 24h/24"
+          ],
+          "vendredi": [
+            "Ouvert 24h/24"
+          ],
+          "samedi": [
+            "Ouvert 24h/24"
+          ],
+          "dimanche": [
+            "Ouvert 24h/24"
+          ]
+        }
+      },
+      {
+        "nom": "O'parinor",
+        "adresse": "Centre Commercial O'Parinor, 93600 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "09:00–22:00"
+          ],
+          "mardi": [
+            "09:00–22:00"
+          ],
+          "mercredi": [
+            "09:00–22:00"
+          ],
+          "jeudi": [
+            "09:00–22:00"
+          ],
+          "vendredi": [
+            "09:00–22:00"
+          ],
+          "samedi": [
+            "09:00–22:00"
+          ],
+          "dimanche": [
+            "09:00–22:00"
+          ]
+        }
+      },
+      {
+        "nom": "Claye-Souilly",
+        "adresse": "Centre commercial Claye Souilly",
+        "horaire": {
+          "lundi": [
+            "09:00–00:30"
+          ],
+          "mardi": [
+            "09:00–00:30"
+          ],
+          "mercredi": [
+            "09:00–00:30"
+          ],
+          "jeudi": [
+            "09:00–00:30"
+          ],
+          "vendredi": [
+            "09:00–01:00"
+          ],
+          "samedi": [
+            "09:00–01:00"
+          ],
+          "dimanche": [
+            "09:00–00:30"
+          ]
+        }
+      },
+      {
+        "nom": "Vileparisis",
+        "adresse": "VILLEPARISIS RD 84 - ZI L'Ambrésis, 6 Av. Jean Monnet, 77270 Villeparisis",
+        "horaire": {
+          "lundi": [
+            "08:30–02:00"
+          ],
+          "mardi": [
+            "08:30–02:00"
+          ],
+          "mercredi": [
+            "08:30–02:00"
+          ],
+          "jeudi": [
+            "08:30–02:00"
+          ],
+          "vendredi": [
+            "08:30–02:00"
+          ],
+          "samedi": [
+            "08:30–02:00"
+          ],
+          "dimanche": [
+            "08:30–02:00"
+          ]
+        }
+      },
+      {
+        "nom": "Aéroville",
+        "adresse": "Centre Commercial Aeroville Centre commercial Aéroville, 30 Rue des Buissons, 95700 Roissy-en-France",
+        "horaire": {
+          "lundi": [
+            "08:30–00:00"
+          ],
+          "mardi": [
+            "08:30–00:00"
+          ],
+          "mercredi": [
+            "08:30–00:00"
+          ],
+          "jeudi": [
+            "08:30–00:00"
+          ],
+          "vendredi": [
+            "08:30–00:00"
+          ],
+          "samedi": [
+            "08:30–00:00"
+          ],
+          "dimanche": [
+            "10:00–00:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "burger",
+      "sucré",
+      "salé",
+      "pas diet",
+      "+10€",
+      "~5€"
+    ]
+  },
+  {
+    "nom": "KFC",
+    "emplacements": [
+      {
+        "nom": "Aéroville",
+        "adresse": "Centre Commercial Aeroville Centre commercial Aéroville, 30 Rue des Buissons, 95700 Roissy-en-France",
+        "horaire": {
+          "lundi": [
+            "11:00–00:00"
+          ],
+          "mardi": [
+            "11:00–00:00"
+          ],
+          "mercredi": [
+            "11:00–00:00"
+          ],
+          "jeudi": [
+            "11:00–00:00"
+          ],
+          "vendredi": [
+            "11:00–00:00"
+          ],
+          "samedi": [
+            "11:00–00:00"
+          ],
+          "dimanche": [
+            "11:00–00:00"
+          ]
+        }
+      },
+      {
+        "nom": "Livry Cora",
+        "adresse": "centre commercial Cora, 93190 Livry-Gargan",
+        "horaire": {
+          "lundi": [
+            "11:00–23:00"
+          ],
+          "mardi": [
+            "11:00–23:00"
+          ],
+          "mercredi": [
+            "11:00–23:00"
+          ],
+          "jeudi": [
+            "11:00–23:00"
+          ],
+          "vendredi": [
+            "11:00–23:00"
+          ],
+          "samedi": [
+            "11:00–23:00"
+          ],
+          "dimanche": [
+            "11:00–23:00"
+          ]
+        }
+      },
+      {
+        "nom": "Villepinte",
+        "adresse": "11 Av. Georges Clemenceau, 93420 Villepinte",
+        "horaire": {
+          "lundi": [
+            "11:00–22:30"
+          ],
+          "mardi": [
+            "11:00–22:30"
+          ],
+          "mercredi": [
+            "11:00–22:30"
+          ],
+          "jeudi": [
+            "11:00–22:30"
+          ],
+          "vendredi": [
+            "11:00–22:30"
+          ],
+          "samedi": [
+            "11:00–22:30"
+          ],
+          "dimanche": [
+            "11:00–22:30"
+          ]
+        }
+      },
+      {
+        "nom": "Claye",
+        "adresse": "Rue Clément Ader, 77410 Claye-Souilly",
+        "horaire": {
+          "lundi": [
+            "11:00–23:00"
+          ],
+          "mardi": [
+            "11:00–23:00"
+          ],
+          "mercredi": [
+            "11:00–23:00"
+          ],
+          "jeudi": [
+            "11:00–23:00"
+          ],
+          "vendredi": [
+            "11:00–00:00"
+          ],
+          "samedi": [
+            "11:00–00:00"
+          ],
+          "dimanche": [
+            "11:00–23:00"
+          ]
+        }
+      },
+      {
+        "nom": "Aulnay rond-point",
+        "adresse": "Carr de l'Europe, 93600 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "11:00–22:30"
+          ],
+          "mardi": [
+            "11:00–22:30"
+          ],
+          "mercredi": [
+            "11:00–22:30"
+          ],
+          "jeudi": [
+            "11:00–22:30"
+          ],
+          "vendredi": [
+            "11:00–23:00"
+          ],
+          "samedi": [
+            "11:00–23:00"
+          ],
+          "dimanche": [
+            "11:00–22:30"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "burger",
+      "poulet",
+      "salé",
+      "sucré",
+      "+10€",
+      "~5€",
+      "pas diet"
+    ]
+  },
+  {
+    "nom": "Burger King",
+    "emplacements": [
+      {
+        "nom": "Paris Nord 2",
+        "adresse": "Centre Commercial Paris Nord 2, 117 Av. de la Plaine de France, 95500 Gonesse",
+        "horaire": {
+          "lundi": [
+            "11:00–22:00"
+          ],
+          "mardi": [
+            "11:00–22:00"
+          ],
+          "mercredi": [
+            "11:00–22:00"
+          ],
+          "jeudi": [
+            "11:00–22:00"
+          ],
+          "vendredi": [
+            "11:00–23:00"
+          ],
+          "samedi": [
+            "11:00–23:00"
+          ],
+          "dimanche": [
+            "11:00–22:00"
+          ]
+        }
+      },
+      {
+        "nom": "Aulnay o'parinor",
+        "adresse": "Le Haut De Galy, Centre Commercial O'Parinor, 93600 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "11:00–23:00"
+          ],
+          "mardi": [
+            "11:00–23:00"
+          ],
+          "mercredi": [
+            "11:00–23:00"
+          ],
+          "jeudi": [
+            "11:00–23:00"
+          ],
+          "vendredi": [
+            "11:00–00:00"
+          ],
+          "samedi": [
+            "11:00–00:00"
+          ],
+          "dimanche": [
+            "11:00–23:00"
+          ]
+        }
+      },
+      {
+        "nom": "Vileparisis",
+        "adresse": "Rond-Point Du 6 Juin 1944, 77270 Villeparisis",
+        "horaire": {
+          "lundi": [
+            "11:00–00:00"
+          ],
+          "mardi": [
+            "11:00–00:00"
+          ],
+          "mercredi": [
+            "11:00–00:00"
+          ],
+          "jeudi": [
+            "11:00–01:00"
+          ],
+          "vendredi": [
+            "11:00–01:00"
+          ],
+          "samedi": [
+            "11:00–00:00"
+          ],
+          "dimanche": [
+            "11:00–00:00"
+          ]
+        }
+      },
+      {
+        "nom": "Claye",
+        "adresse": "5 Rue Robert Schumann SCHUMAN, 77410 Claye-Souilly",
+        "horaire": {
+          "lundi": [
+            "10:00–20:00"
+          ],
+          "mardi": [
+            "10:00–20:00"
+          ],
+          "mercredi": [
+            "10:00–20:00"
+          ],
+          "jeudi": [
+            "10:00–20:00"
+          ],
+          "vendredi": [
+            "10:00–20:00"
+          ],
+          "samedi": [
+            "10:00–20:00"
+          ],
+          "dimanche": [
+            "10:00–19:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "burger",
+      "sucré",
+      "+10€",
+      "~5€",
+      "pas diet"
+    ]
+  },
+  {
+    "nom": "Class Bouff",
+    "emplacements": [
+      {
+        "adresse": "80 Av. Henri Barbusse, 93290 Tremblay-en-France",
+        "horaire": {
+          "lundi": [
+            "11:00–23:00"
+          ],
+          "mardi": [
+            "11:00–23:00"
+          ],
+          "mercredi": [
+            "11:00–23:00"
+          ],
+          "jeudi": [
+            "11:00–23:00"
+          ],
+          "vendredi": [
+            "11:00–23:00"
+          ],
+          "samedi": [
+            "11:00–23:00"
+          ],
+          "dimanche": [
+            "Fermé"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "grec",
+      "pas diet",
+      "salé",
+      "janath",
+      "-10€"
+    ]
+  },
+  {
+    "nom": "Flunch",
+    "emplacements": [
+      {
+        "adresse": "Centre Commercial Parinord, 93606 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "11:30–21:00"
+          ],
+          "mardi": [
+            "11:30–21:00"
+          ],
+          "mercredi": [
+            "11:30–21:00"
+          ],
+          "jeudi": [
+            "11:30–21:00"
+          ],
+          "vendredi": [
+            "11:30–21:30"
+          ],
+          "samedi": [
+            "11:30–21:30"
+          ],
+          "dimanche": [
+            "11:30–21:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "diet",
+      "-10€",
+      "volonté"
+    ]
+  },
+  {
+    "nom": "NaanTime",
+    "emplacements": [
+      {
+        "adresse": "Centre commercial Oparinor, 93600 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "11:30–23:00"
+          ],
+          "mardi": [
+            "11:30–23:00"
+          ],
+          "mercredi": [
+            "11:30–23:00"
+          ],
+          "jeudi": [
+            "11:30–23:00"
+          ],
+          "vendredi": [
+            "11:30–23:00"
+          ],
+          "samedi": [
+            "11:30–23:00"
+          ],
+          "dimanche": [
+            "11:30–23:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "burger",
+      "poulet",
+      "pizza",
+      "volonté",
+      "+10€",
+      "salé",
+      "sucré",
+      "~5€"
+    ]
+  },
+  {
+    "nom": "French Cantine",
+    "emplacements": [
+      {
+        "adresse": "8 Av. Jean Fourgeaud, 93420 Villepinte",
+        "horaire": {
+          "lundi": [
+            "11:30–23:00"
+          ],
+          "mardi": [
+            "11:30–23:00"
+          ],
+          "mercredi": [
+            "11:30–23:00"
+          ],
+          "jeudi": [
+            "11:30–23:00"
+          ],
+          "vendredi": [
+            "11:30–23:30"
+          ],
+          "samedi": [
+            "11:30–23:30"
+          ],
+          "dimanche": [
+            "11:30–23:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "burger",
+      "+10€",
+      "salé",
+      "sucré",
+      "~10€",
+      "~5€"
+    ]
+  },
+  {
+    "nom": "Arabe o'parinor",
+    "emplacements": [
+      {
+        "adresse": "Centre commercial Oparinor, 93600 Aulnay-sous-Bois",
+        "horaire": [
+          "Pas d'info"
+        ]
+      }
+    ],
+    "categorie": [
+      "arabe",
+      "pas diet",
+      "-10€",
+      "salé"
+    ]
+  },
+  {
+    "nom": "Grec o'parinor",
+    "emplacements": [
+      {
+        "adresse": "Centre commercial Oparinor, 93600 Aulnay-sous-Bois",
+        "horaire": [
+          "Pas d'info"
+        ]
+      }
+    ],
+    "categorie": [
+      "grec",
+      "pas diet",
+      "salé",
+      "-10€"
+    ]
+  },
+  {
+    "nom": "La Flamme Grec",
+    "emplacements": [
+      {
+        "adresse": "22 Rue de la Belle Étoile, 95500 Gonesse",
+        "horaire": {
+          "lundi": [
+            "Fermé"
+          ],
+          "mardi": [
+            "11:30–21:00"
+          ],
+          "mercredi": [
+            "11:30–21:00"
+          ],
+          "jeudi": [
+            "11:30–21:00"
+          ],
+          "vendredi": [
+            "11:30–23:00"
+          ],
+          "samedi": [
+            "11:30–23:00"
+          ],
+          "dimanche": [
+            "11:30–23:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "grec",
+      "+10€",
+      "salé",
+      "pas diet"
+    ]
+  },
+  {
+    "nom": "KASHMIR PALACE",
+    "emplacements": [
+      {
+        "adresse": "22 Rue de la Belle Étoile, 95500 Gonesse",
+        "horaire": {
+          "lundi": [
+            "12:00–15:30",
+            "18:00–23:00"
+          ],
+          "mardi": [
+            "12:00–15:30",
+            "18:00–23:00"
+          ],
+          "mercredi": [
+            "12:00–15:30",
+            "18:00–23:00"
+          ],
+          "jeudi": [
+            "12:00–15:30",
+            "18:00–23:00"
+          ],
+          "vendredi": [
+            "12:00–15:30",
+            "18:00–23:30"
+          ],
+          "samedi": [
+            "12:00–16:00",
+            "18:00–23:30"
+          ],
+          "dimanche": [
+            "12:00–16:00",
+            "18:00–23:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "indien",
+      "diet",
+      "+10€",
+      "salé"
+    ]
+  },
+  {
+    "nom": "The Smashed Burger",
+    "emplacements": [
+      {
+        "adresse": "Centre commercial, 77410 Claye-Souilly",
+        "horaire": {
+          "lundi": [
+            "11:45–21:00"
+          ],
+          "mardi": [
+            "11:45–21:00"
+          ],
+          "mercredi": [
+            "11:45–21:00"
+          ],
+          "jeudi": [
+            "11:45–21:00"
+          ],
+          "vendredi": [
+            "11:45–22:00"
+          ],
+          "samedi": [
+            "11:45–22:00"
+          ],
+          "dimanche": [
+            "Fermé"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "burger",
+      "pas diet",
+      "+10€",
+      "salé"
+    ]
+  },
+  {
+    "nom": "Crêpe Touch",
+    "emplacements": [
+      {
+        "adresse": "Centre Commercial Shopping Promenade, 3 Rue Robert Schumann Schuman, 77410 Claye-Souilly",
+        "horaire": {
+          "lundi": [
+            "11:45–21:00"
+          ],
+          "mardi": [
+            "11:45–21:00"
+          ],
+          "mercredi": [
+            "11:45–21:00"
+          ],
+          "jeudi": [
+            "11:45–21:00"
+          ],
+          "vendredi": [
+            "11:45–22:00"
+          ],
+          "samedi": [
+            "11:45–22:00"
+          ],
+          "dimanche": [
+            "Fermé"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "sucré",
+      "pas diet",
+      "-10€"
+    ]
+  },
+  {
+    "nom": "K COOK",
+    "emplacements": [
+      {
+        "adresse": "30 Rue des Buissons C.C Aéroville, 95700 Roissy-en-France",
+        "horaire": {
+          "lundi": [
+            "11:30–21:30"
+          ],
+          "mardi": [
+            "11:30–21:30"
+          ],
+          "mercredi": [
+            "11:30–21:30"
+          ],
+          "jeudi": [
+            "11:30–21:30"
+          ],
+          "vendredi": [
+            "11:30–21:30"
+          ],
+          "samedi": [
+            "11:30–21:30"
+          ],
+          "dimanche": [
+            "11:30–21:30"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "salé",
+      "diet",
+      "+10€",
+      "asiat",
+      "coréen"
+    ]
+  },
+  {
+    "nom": "Waffle Factory",
+    "emplacements": [
+      {
+        "nom": "Aéroville",
+        "adresse": "30 Rue des Buissons, 95700 Roissy-en-France",
+        "horaire": {
+          "lundi": [
+            "10:00–20:00"
+          ],
+          "mardi": [
+            "10:00–20:00"
+          ],
+          "mercredi": [
+            "10:00–20:00"
+          ],
+          "jeudi": [
+            "10:00–20:00"
+          ],
+          "vendredi": [
+            "10:00–20:00"
+          ],
+          "samedi": [
+            "10:00–20:00"
+          ],
+          "dimanche": [
+            "10:00–20:00"
+          ]
+        }
+      },
+      {
+        "nom": "O'parinor",
+        "adresse": "Le Haut De Galy, 93606 Aulnay-sous-Bois",
+        "horaire": {
+          "lundi": [
+            "10:00–20:00"
+          ],
+          "mardi": [
+            "10:00–20:00"
+          ],
+          "mercredi": [
+            "10:00–20:00"
+          ],
+          "jeudi": [
+            "10:00–20:00"
+          ],
+          "vendredi": [
+            "10:00–20:00"
+          ],
+          "samedi": [
+            "10:00–20:00"
+          ],
+          "dimanche": [
+            "11:00–19:00"
+          ]
+        }
+      }
+    ],
+    "categorie": [
+      "sucré",
+      "pas diet",
+      "-10€"
+    ]
+  }
+]
