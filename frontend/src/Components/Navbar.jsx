@@ -23,7 +23,7 @@ const Navbar = ({ onSearch, categories, onCategoryChange, selectedCategories}) =
   
 
   return (
-    <nav className="fixed bottom-0 left-0 right-0 bg-neutral-600 shadow-lg rounded-t-lg">
+    <nav className="fixed bottom-0 left-0 right-0 bg-stroke-kipoumanze bg-opacity-90 rounded-t-lg text-white shadow-lg">
       <div
         className={`${
           isMenuOpen ? "opacity-100 p-4" : "max-h-0 opacity-0"

@@ -1,2 +1,8 @@
-- Rendre visible les éléments derrière la Navbar
-- Savoir comment implémenter la fonctionnalité "KiPouManze"
+a faire :
+    - créer le bouton random qui ajoutera les elements dans un tableau pour ensuite randomizer
+    - améliorer le ux global et surtout des cards
+    - afficher les adresses des elements
+
+fait :
+    - Rendre visible les éléments derrière la Navbar
+    - Savoir comment implémenter la fonctionnalité "KiPouManze"
