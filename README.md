@@ -15,7 +15,6 @@
 - **JSON**: To store and manage restaurant data.
 - **TailwindCSS**: For a clean, responsive, and visually appealing design.
 
-The app will be available at ``.
 
 ## Contact
 
