@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Container from "./commons/Container";
 import Card from "./Card";
-import restaurantData from "../Data/Restaurant.json";
+import restaurantData from "../Data/Restaurant_updated_corrected.json";
 import Navbar from "./Navbar";
 
 const Home = () => {
@@ -9,6 +9,10 @@ const Home = () => {
   const [categories, setCategories] = useState([]);
   const [selectedCategories, setSelectedCategories] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
+  const [tableauRandom, setTableauRandom] = useState([]);
+
+  console.log(tableauRandom);
+  
 
   useEffect(() => {
     const uniqueCategories = [...new Set(restaurantData.flatMap(restaurant => restaurant.categorie))];
@@ -39,9 +43,9 @@ const Home = () => {
 
   return (
     <Container>
-      <Navbar onSearch={handleSearch} categories={categories} onCategoryChange={handleCategoryChange} selectedCategories={selectedCategories} />
+      <Navbar onSearch={handleSearch} categories={categories} onCategoryChange={handleCategoryChange} selectedCategories={selectedCategories} tableauRandom={tableauRandom} setTableauRandom={setTableauRandom} />
       <div className="py-2 px-6 space-y-5">
-        <Card data={restaurantList} />
+        <Card data={restaurantList} tableauRandom={tableauRandom} setTableauRandom={setTableauRandom} />
       </div>
     </Container>
   );

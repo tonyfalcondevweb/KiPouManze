@@ -1,8 +1,10 @@
 a faire :
-    - créer le bouton random qui ajoutera les elements dans un tableau pour ensuite randomizer
-    - améliorer le ux global et surtout des cards
-    - afficher les adresses des elements
+    - Suppression des restaurants dans le menu nav KPM
+    - Button KPM RAndom pour randominzer les restaurants du tableauRandom (il faut au moins 2 restaurant afin de pouvoir random)
 
 fait :
     - Rendre visible les éléments derrière la Navbar
     - Savoir comment implémenter la fonctionnalité "KiPouManze"
+    - créer le bouton random qui ajoutera les elements dans un tableau pour ensuite randomizer
+    - améliorer le ux global et surtout des cards
+    - afficher les adresses des elements

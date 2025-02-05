@@ -9,7 +9,6 @@ export default {
       colors: {
         'backgroud-kipoumanze': '#55423d',
         'headline-kipoumanze': '#fffffe',
-        'headline-kipoumanze': '#fffffe',
         'button-kipoumanze': '#ffc0ad',
         'button-texte-kipoumanze': '#271c19',
         'texte-kipoumanze': '#fff3ec',
