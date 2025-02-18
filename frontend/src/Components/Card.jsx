@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 import BadgeKPM from "./commons/BadgeKPM";
 import ButtonKPM from "./commons/ButtonKPM";
 
@@ -58,6 +59,27 @@ const Card = ({ data, tableauRandom, setTableauRandom }) => {
       ))}
     </>
   );
+};
+Card.propTypes = {
+  data: PropTypes.arrayOf(
+    PropTypes.shape({
+      nom: PropTypes.string.isRequired,
+      emplacements: PropTypes.arrayOf(
+        PropTypes.shape({
+          nom: PropTypes.string.isRequired,
+          adresse: PropTypes.string.isRequired,
+          horaire: PropTypes.string.isRequired,
+        })
+      ).isRequired,
+      categorie: PropTypes.arrayOf(PropTypes.string).isRequired,
+    })
+  ).isRequired,
+  tableauRandom: PropTypes.arrayOf(
+    PropTypes.shape({
+      nom: PropTypes.string.isRequired,
+    })
+  ).isRequired,
+  setTableauRandom: PropTypes.func.isRequired,
 };
 
 export default Card;
